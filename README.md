@@ -11,7 +11,10 @@ In this section we will discuss two aspects of the project, The performance of t
 
 ### Performace of Stocks
 
+The year 2017 was largely a good year for stocks that were under consideration. The percentage return was showing a positive direction and some stocks like DQ and ENPH more than doubled in their value. The image below shows a summary of how 2017 rolled out for the stocks.  
 <img width="246" alt="2017" src="https://user-images.githubusercontent.com/73799417/103441052-28f57380-4c19-11eb-8704-6a11609dbc91.png">
+
+
 
 ### Improvenments in the macro
 
