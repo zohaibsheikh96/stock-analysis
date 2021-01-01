@@ -26,7 +26,7 @@ The previously created macro was over-all slower to run. This maybe because of t
 <img width="259" alt="Original_2017" src="https://user-images.githubusercontent.com/73799417/103442149-9c02e800-4c21-11eb-880f-c5bd8eaf51e3.png"> :  <img width="263" alt="VBA_CHALLENGE2017" src="https://user-images.githubusercontent.com/73799417/103442153-a1603280-4c21-11eb-984b-486629093b09.png">
 
 
-
+<img width="260" alt="Original_2018" src="https://user-images.githubusercontent.com/73799417/103442202-264b4c00-4c22-11eb-8184-4f9836b26a63.png"> :  <img width="262" alt="VBA_CHALLENGE_2018" src="https://user-images.githubusercontent.com/73799417/103442205-29463c80-4c22-11eb-94ad-7eb93b643f00.png">
 
 
 ## Summary
