@@ -9,9 +9,11 @@ The algorithm written in this project is high performing as it is almost 5 times
 
 In this section we will discuss two aspects of the project, The performance of the stocks and improvenments in orignal macro.
 
+## Performace of Stocks
+
 <img width="246" alt="2017" src="https://user-images.githubusercontent.com/73799417/103441052-28f57380-4c19-11eb-8704-6a11609dbc91.png">
 
-## Performace of Stocks
+## Improvenments in the macro
 
 
 
