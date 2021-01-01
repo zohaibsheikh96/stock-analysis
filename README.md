@@ -27,6 +27,16 @@ The previously created macro was over-all slower to run. This maybe because of t
 
 <img width="260" alt="Original_2018" src="https://user-images.githubusercontent.com/73799417/103442202-264b4c00-4c22-11eb-8184-4f9836b26a63.png">    <img width="262" alt="VBA_CHALLENGE_2018" src="https://user-images.githubusercontent.com/73799417/103442205-29463c80-4c22-11eb-94ad-7eb93b643f00.png">
 
+### Original Script VS Refactored Script
+
+1) Origninal
+
+<img width="539" alt="ORGINAL" src="https://user-images.githubusercontent.com/73799417/103446628-d97e6a00-4c4f-11eb-9351-43c9ac64fcd2.png">
+
+2)Refactored
+
+<img width="741" alt="REFACTORED" src="https://user-images.githubusercontent.com/73799417/103446632-e0a57800-4c4f-11eb-973e-1662dc348f55.png">
+
 
 ## Summary
 
