@@ -17,9 +17,7 @@ The year 2017 was largely a good year for stocks that were under consideration. 
 
 2018 was generally a bad year for the portfolio. Most of the stocks lost a chunck of their value , where only ENPH and RUN were able to finish the year with positive gains. It is also interseting to see how the volume of shares traded in 2018 is less than 2017.
 
-
-
-
+<img width="242" alt="2018" src="https://user-images.githubusercontent.com/73799417/103442003-38c48600-4c20-11eb-9be0-70ba9a1f1f46.png">
 
 ### Improvenments in the macro
 
