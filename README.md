@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This project focuses on refactoring the original script to make it more efficient and streamlined. The script automates the calculation of one year returns and Volume of stocks traded. The algorithm written in this project is high performing as it is almost 5 times faster than the original macro.
+This project focuses on refactoring the original script to make it more efficient and streamlined. The script automates the calculation of one year returns, Volume of stocks traded and also formats the output sheet. The algorithm written in this project is high performing as it is almost 5 times faster than the original macro.
  
 ## Results
 
