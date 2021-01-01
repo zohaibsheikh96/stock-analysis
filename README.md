@@ -21,9 +21,12 @@ The year 2017 was largely a good year for stocks that were under consideration. 
 
 ### Improvenments in the macro
 
-The previously created macro was over-all slower to run. This maybe because of the nested loops it had which made the process take more time. The code was refactored by creating an incremental variable which performed as an index for output arrays. This optimized my code and allowed the execution to occur in minimum amount of time.
+The previously created macro was over-all slower to run. This maybe because of the nested loops it had which made the process take more time. The code was refactored by creating an incremental variable which performed as an index for output arrays. This optimized my code and allowed the execution to occur in minimum amount of time. The image on the left belongs to the original code and the image to the right belongs to the optimized code.
 
 <img width="259" alt="Original_2017" src="https://user-images.githubusercontent.com/73799417/103442149-9c02e800-4c21-11eb-880f-c5bd8eaf51e3.png"> :  <img width="263" alt="VBA_CHALLENGE2017" src="https://user-images.githubusercontent.com/73799417/103442153-a1603280-4c21-11eb-984b-486629093b09.png">
+
+
+
 
 
 ## Summary
