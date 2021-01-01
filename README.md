@@ -1,10 +1,9 @@
-# Stock Analysis Project
+# VBA Challenge
 
 ## Overview of Project
 
-This project focus's on providing insights about the performance of various stocks. Mainly the one year returns and Volume of stocks traded is calculated.
-The algorithm written in this project is high performing as it is almost 5 times faster than the orignal macro. 
-
+This project focus's on making the refactoring the onriginal script to make it more efficient and streamlined. The script automates the calculation of one year returns and Volume of stocks traded. The algorithm written in this project is high performing as it is almost 5 times faster than the orignal macro.
+ 
 ## Results
 
 In this section we will discuss two aspects of the project, The performance of the stocks and improvenments in orignal macro.
