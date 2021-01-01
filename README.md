@@ -11,7 +11,7 @@ In this section we will discuss two aspects of the project, The performance of t
 
 ### Performace of Stocks
 
-
+/Users/zohaibtaj/Desktop/Class_Excel/2017
 
 
 ## Summary
