@@ -45,5 +45,5 @@ The previously created macro was over-all slower to run. This maybe because of t
 
 The readability of the VBA script improved drastically. Since the complex nested loop was removed, the ease of understanding the logic of the script was much better. Since the script is a little more user friendly, in the future if required the script can be comfortably edited according to the needs. Simplifying the script also allowed to significantly reduce the execution time too.
 
-Initially it is quite difficult to come up with a solution to our goals. Therefore, a lot of time had to be allocated to understand the logic and come up with a working script. The code had to be thoroughly checked because while refactoring some formulas/functions might get accidently changed which may lead to erroneous results.
+Initially it is quite difficult to come up with a solution that is needed to reach our goals. Therefore, a lot of time had to be allocated to understand the logic and come up with a working script. The code had to be thoroughly checked because while refactoring some formulas/functions might get accidently changed which may lead to erroneous results.
 
