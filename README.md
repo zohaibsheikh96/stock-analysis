@@ -12,7 +12,12 @@ In this section we will discuss two aspects of the project, The performance of t
 ### Performace of Stocks
 
 The year 2017 was largely a good year for stocks that were under consideration. The percentage return was showing a positive direction and some stocks like DQ and ENPH more than doubled in their value. The image below shows a summary of how 2017 rolled out for the stocks.  
+
 <img width="246" alt="2017" src="https://user-images.githubusercontent.com/73799417/103441052-28f57380-4c19-11eb-8704-6a11609dbc91.png">
+
+2018 was generally a bad year for the portfolio. Most of the stocks lost a chunck of their value , where only ENPH and RUN were able to finish the year with positive gains. It is also interseting to see how the volume of shares traded in 2018 is less than 2017.
+
+
 
 
 
