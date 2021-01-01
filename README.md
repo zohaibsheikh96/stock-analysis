@@ -21,7 +21,7 @@ The year 2017 was largely a good year for stocks that were under consideration. 
 
 ### Improvenments in the macro
 
-
+The previously created macro was over-all slower to run. This maybe because of the nested loops it had which made the process take more time. The code was refactored by creating an incremental variable which performed as an index for output arrays. 
 
 
 ## Summary
