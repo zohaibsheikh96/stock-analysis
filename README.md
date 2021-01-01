@@ -29,11 +29,11 @@ The previously created macro was over-all slower to run. This maybe because of t
 
 ### Original Script VS Refactored Script
 
-**1) Origninal
+**1) Origninal**
 
 <img width="539" alt="ORGINAL" src="https://user-images.githubusercontent.com/73799417/103446628-d97e6a00-4c4f-11eb-9351-43c9ac64fcd2.png">
 
-**2) Refactored
+**2) Refactored**
 
 <img width="741" alt="REFACTORED" src="https://user-images.githubusercontent.com/73799417/103446632-e0a57800-4c4f-11eb-973e-1662dc348f55.png">
 
